@@ -1,0 +1,10 @@
+name: LocalTimingsMvn
+version: ${project.version}
+main: me.alvin.localtimings.LocalTimings
+api-version: 1.13
+authors: [Alvin]
+commands:
+  localtimings:
+    description: Do a local timing report
+    usage: /localtimings
+    permission: localtimings.command

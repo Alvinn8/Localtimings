@@ -1,0 +1,6 @@
+.idea
+**/.DS_STORE
+**/*.iml
+Runner/target/
+target
+.git_old

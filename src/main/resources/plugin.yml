@@ -1,4 +1,4 @@
-name: LocalTimingsMvn
+name: LocalTimings
 version: ${project.version}
 main: me.alvin.localtimings.LocalTimings
 api-version: 1.13
